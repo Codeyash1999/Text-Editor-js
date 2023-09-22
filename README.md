@@ -29,4 +29,4 @@ Feel free to modify or expand upon this description to better suit your project'
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-Want To Know About Usage Click On The Following Link To Check -- 
+Want To Know About Usage Click On The Following Link To Check -- https://codeyash1999.github.io/Text-Editor-js/
